@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌐 web-development-exercises
 A structured collection of exercises, coding challenges, and mini-projects created while learning Web Development from the fundamentals to advanced concepts. Each exercise focuses on practicing specific concepts through hands-on implementation.
 
@@ -45,6 +44,3 @@ Primary learning resource:
 - **Sigma Web Development Course** by **CodeWithHarry**
 
 The code, project organization, documentation, and GitHub structure are maintained by me as part of my learning journey.
-=======
-# web-development-exercises
->>>>>>> eb45c028df90eac0a7954167da81c94025641521
